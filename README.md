@@ -1,6 +1,6 @@
 # Usage
 
-`source proxy-with.auth.sh`
+`source proxy-with-auth.sh`
 
 Proxy can be found at public IP address of MKE cluster on port 8080. Test as follows:
 
